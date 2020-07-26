@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: grey;
+}
+.btn{
+    margin-top: 15px;
+    width:10%;
+    height:100%;
+    font-size: .6em;
+    margin-left: 3px;
+    background-color: cadetblue;
+}
+.align{
+    
+    height:50px;
+    width:80%;
+    margin:20px;
+    margin-left: 40px;
+    
+}
+.in{
+    margin-top: 15px;
+    width:15%;
+    height:30%;
+    font-size: .5em;
+    background-color: cadetblue;
+}
+.ins{
+    margin-top: 15px;
+    width:15%;
+    height:30%;
+    font-size: .5em;
+    background-color: lightcyan;
+}
+.align ul{
+    list-style: none;
+   
+}
+li{
+    font-size: .5em;
+}
